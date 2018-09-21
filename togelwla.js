@@ -1,0 +1,1 @@
+document.write('<a href="http://www.ubcpker.net/index.php?do=daftar&ref=1046267" style="text-decoration: none" target="_blank"> <img src="http://2.bp.blogspot.com/--eEpNlE1Fx0/U9EPHFIHDAI/AAAAAAAAAzI/qcT18Vw6T6g/s1600/ubcpoker.png" alt="AGEN POKER ONLINE" title="UBCPOKER" style="width:140px;height:40px;border:0" /></a>')
