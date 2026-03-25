@@ -1,1 +1,1 @@
-
+document.write('<center><a href="https://www.pasar8888.com/_View/Register.aspx?ref=25BFE2" target="_blank"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZoID33xH81Ytk-oZAotzWw3qgejwSr9Xor442wYe-6H8rgX-3XfrzKpkpPlm8L292TjLSae503-VEdY81KkZlM8TiOY-bt_j-z5l-m1L_RJSghzGTGwtA-CZpS5puk14EMgmdT8QfP8fO/s1600/sexy.gif" alt="AGEN BOLA ONLINE" title="PASARAN MURAH" style="width:100%;height:90px;border:0" /></a></center>')
