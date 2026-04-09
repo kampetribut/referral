@@ -1,1 +1,1 @@
-
+document.write('<a href="https://www.theccruise.com/register?referral=vina567" style="text-decoration: none" target="_blank"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaIrlkGyFRPI3aJKnf-18oRLhB8nRsrK6ve44QR6J38hXRvyvsWeLRcdnYcZlr88LFN4hHqjIx5RyOud7y3oZgspwuZW3pWCTRHg8JTw3Cko89qtPZBycXj9IfZdJ1QEWXyngOgdamuvZMPmRh4qdgJXjcFDiP_dPfVzaK3TVueHGI0f7dfVKeY8fdyI3v/s1600/1000332797.jpg" alt="BANDAR SLOT" title=" BANDAR SLOT" style="width:100%;height:100%;border:0" /></a>')
