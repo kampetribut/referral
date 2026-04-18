@@ -1,1 +1,1 @@
-
+document.write('<center><a href="https://www.theccruise.com/register?referral=vina567" target="_blank"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbgEmhN_HebsFq6evvRqupPaXko0em24fOuf-cYGIR0cKiWA-QBhhL7Ts3ADyf2Y67zLUbUit4jWX4j8bdkN5kg20cs5ovK5VgpUzvcBEgf8B8sbKYH3jCB8RHAMXvVOwJn662v32N1eCNz-pGYlCvpGEFwL8IAjIMjOeYQle8GRpd66xoowDQsSlCf8o/s1600/1000344002.png" alt="AGEN BANDAR SLOT ONLINE" title="BANDAR SLOT" style="width:100%;height:90px;border:0" /></a></center>')
